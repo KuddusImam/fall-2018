@@ -9,7 +9,6 @@ public class Animal {
 	public Animal() {
 		
 	}
-	//testing
 	
 	public void speak() {
 		System.out.println("Animal is Speaking somehow");
